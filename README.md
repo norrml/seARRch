@@ -35,4 +35,6 @@ https://github.com/norrml/seARRch/blob/main/search.png
 
 - [ ]  `*`   (astericks) `?`  (question marks) and other regex do not work. 
 
-- [ ] ai generated code.
+- [ ] ai generated code
+
+- [ ] very ugly
