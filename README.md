@@ -17,6 +17,11 @@ e.g. if 2 filenames are "one picnic america.jpg" and " picnic one america.jpg".
 when search  is "one america" then both files show up. 
 but when search it "one picnic" only one file shows which is "one picnic america.jpg"
 
+## Sample
+
+norrml.github.io/seARRch/index.html
+
+https://github.com/norrml/seARRch/blob/main/search.png
 
 ## Issue:
 
