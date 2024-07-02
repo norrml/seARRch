@@ -1,4 +1,4 @@
-###  HTML Search page
+##  HTML Search page
 
 https://github.com/norrml/seARRch/blob/main/searrch.sh
 
