@@ -19,7 +19,7 @@ but when search it "one picnic" only one file shows which is "one picnic america
 
 ## Sample
 
-norrml.github.io/seARRch/index.html
+https://norrml.github.io/seARRch/index.html
 
 https://github.com/norrml/seARRch/blob/main/search.png
 
