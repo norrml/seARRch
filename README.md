@@ -21,11 +21,11 @@ but when search it "one picnic" only one file shows which is "one picnic america
 ## Issue:
 
 The file_list.json is accessible without website, Need to add this in nginx 
-***
+```
   location = /website/file_list.json {
         if ($http_referer !~* "^https://website.com/folder-if-any") {  return 444;    }
         alias /home/user/www/website/file_list.json;  
         } }
-***
+```
 
- "*"  (astericks) ? (question marks) and other regex do not work. 
+ `*`   (astericks) `?`  (question marks) and other regex do not work. 
