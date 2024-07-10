@@ -16,12 +16,12 @@ but when search it "one picnic" both show up.
 
 ## HTML Search 2 page.
 
-https://github.com/norrml/seARRch/blob/main/notyetmade.sh 
+https://github.com/norrml/seARRch/blob/main/.....sh 
 
-Does not search the words in reverse, 
+**Does not search** the words in reverse, 
 e.g. if 2 filenames are "one picnic america.jpg" and " picnic one america.jpg". 
 when search  is "one america" then both files show up. 
-but when search it "one picnic" only one file shows which is "one picnic america.jpg"
+but when search it "one picnic" only one file shows which is "one picnic america.jpg" 
 
 
 ### Screen shot
