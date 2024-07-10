@@ -9,8 +9,7 @@ https://norrml.github.io/seARRch/index.html
 https://github.com/norrml/seARRch/blob/main/searrch.sh
 
 Searches the word both sides. 
-e.g. if 2 filenames are "one picnic america.jpg" and " picnic one america.jpg" , if the search is "one america" then both files show up, 
-but when search it "one picnic" both show up.
+e.g. if 2 filenames are "one picnic america.jpg" and " picnic one america.jpg" , (1) if the search is "one america" then both files show up, (2) when search is "one picnic" both show up.
 
 
 
