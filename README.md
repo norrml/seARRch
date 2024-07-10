@@ -24,8 +24,8 @@ when search  is "one america" then both files show up.
 but when search it "one picnic" only one file shows which is "one picnic america.jpg"
 
 
-
-[img=https://github.com/norrml/seARRch/blob/main/search.png]
+### Screen shot
+![alt text](https://github.com/norrml/seARRch/blob/main/search.png)
 
 ## Issue:
 
